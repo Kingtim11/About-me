@@ -6,7 +6,7 @@ As a self-taught web developer, I am passionate about creating dynamic and engag
 
 I graduated from Andrei Neagoie's 'The Complete Web Developer: Zero to Mastery' in the spring of 2023. Since then I have worked on various personal and collaborative projects to enhance my skills as a developer, with a primary focus on JavaScript.
 
-<h2>👩🏾‍💻 &nbsp;Things I code with</h2>
+<h2>👨‍💻 &nbsp;Things I code with</h2>
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
