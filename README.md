@@ -14,7 +14,7 @@ I graduated from Andrei Neagoie's 'The Complete Web Developer: Zero to Mastery' 
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="VSCode" src="https://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-white?logo=Node.js&logoColor=#339933">
-  <img alt="NPM" src="https://img.shields.io/badge/NPM-black?logo=NPM&logoColor=white">
+  <img alt="NPM" src="https://img.shields.io/badge/NPM-#CB3837?logo=NPM&logoColor=#CB3837">
   <img alt="Express" src="https://img.shields.io/badge/Express-grey?logo=Express&logoColor=blue">
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-black?logo=MongoDB&logoColor=green">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-blue?logo=PostgreSQL&logoColor=white">
