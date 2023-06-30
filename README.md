@@ -19,7 +19,6 @@ I graduated from Andrei Neagoie's 'The Complete Web Developer: Zero to Mastery' 
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=MongoDB&logoColor=green" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-blue?style=flat-square&logo=PostgreSQL&logoColor=white" />
   <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
-  <img alt="SASS/SCSS" src="https://img.shields.io/badge/-SASS/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="React Router" src="https://img.shields.io/badge/-React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" />
   <img alt="Grafana" src="https://img.shields.io/badge/Grafana-%23F46800?style=flat-square&logo=Grafana&logoColor=white" />
